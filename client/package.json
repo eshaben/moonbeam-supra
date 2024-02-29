@@ -11,6 +11,8 @@
   "dependencies": {
     "@grpc/grpc-js": "^1.9.0",
     "@grpc/proto-loader": "^0.7.8",
-    "@mysten/sui.js": "^0.42.0"
+    "dotenv": "^16.4.5",
+    "solc": "^0.8.20",
+    "web3": "^4.3.0"
   }
 }
